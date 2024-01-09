@@ -1,7 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
-<!-- HTTPS -->
-<uses-permission android:name="android.permission.INTERNET" />
-<!-- /HTTPS -->
+    <uses-permission android:name="android.permission.INTERNET"/>
     <application
         android:label="STC QR App"
         android:name="${applicationName}"
